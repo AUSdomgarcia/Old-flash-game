@@ -1,0 +1,21 @@
+
+
+Check downloads 
+
+
+file:///C:/Users/SURNIA10/Desktop/00SA0004-isometri/Hiring/hiremain.swf
+
+public function convertObjectToBitmapData(object:*):BitmapData
+{
+var bitmapData:BitmapData = new BitmapData(object.width, object.height, false, 0xFFFFFF);
+			bitmapData.draw(object);
+			return bitmapData;
+		}
+
+
+http://blog.houseplansandmore.com/articles/americas-favorite-house-styles.html
+http://www.moveinthecity.com/clientimages/client2811/house-4.jpg
+http://www.moveinthecity.com/clientimages/client36/house-15.JPG
+http://designainterior.com/wp-content/uploads/2011/04/Classic-European-style-house1.jpg
+http://www.dreamhomesource.com/content-images/common/plans/images/DRA5/DRA712/DRA712-FR-RE-CO-MD.JPG
+http://houses-plans.net/wp-content/uploads/2011/08/european-house-plans1.jpg
